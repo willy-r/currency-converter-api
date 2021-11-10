@@ -23,3 +23,25 @@ Desenvolva uma **REST API** que faça conversão de moedas.
   * De Dólar para Real: **`USD -> BRL`**
   * De Real para Euro: **`BRL -> EUR`**
   * De Euro para Real: **`EUR -> BRL`**
+
+
+## Rodando o projeto localmente
+
+Clone e vá para o diretório do projeto:
+
+```bash
+git clone https://github.com/willy-r/currcency-converter-api.git
+cd currcency-converter-api
+```
+
+Instale as dependências e inicie o servidor:
+
+```bash
+npm install
+npm start
+```
+
+
+## Autor
+
+- [willy-r](https://github.com/willy-r/)
