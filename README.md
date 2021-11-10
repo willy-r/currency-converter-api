@@ -19,7 +19,7 @@ Desenvolva uma **REST API** que faça conversão de moedas.
   ```
 
 * Conversões:
-  * De Real para Dólar: **BRL -> USD**
-  * De Dólar para Real: **USD -> BRL**
-  * De Real para Euro: **BRL -> EUR**
-  * De Euro para Real: **EUR > BRL**
+  * De Real para Dólar: **`BRL -> USD`**
+  * De Dólar para Real: **`USD -> BRL`**
+  * De Real para Euro: **`BRL -> EUR`**
+  * De Euro para Real: **`EUR -> BRL`**
